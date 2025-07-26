@@ -2,11 +2,10 @@
 
 ## 👤 Student Details
 - **Name:** Sathvika Bogam  
-- **Roll Number:** BT23ECE062  
 - **Course:** B.Tech ECE  
-- **Internship Title:** Network Security Intern  
+- **Internship Title:** Cyber Security Intern  
 - **Tool Used:** Nmap v7.97  
-- **Platform:** macOS (Apple M1)
+- **Platform:** macOS (Apple M3)
 
 ---
 
